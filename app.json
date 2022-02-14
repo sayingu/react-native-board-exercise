@@ -1,6 +1,6 @@
 {
   "expo": {
-    "entryPoint": "./src/App.js",
+    "main": "./src/App.js",
     "name": "react-native-board-exercise",
     "slug": "react-native-board-exercise",
     "version": "1.0.0",
