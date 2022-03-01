@@ -23,6 +23,6 @@ export default Index = () => {
 
 const styles = StyleSheet.create({
     h1: {
-        fontSize: "11px",
+        fontSize: 11,
     },
 });
